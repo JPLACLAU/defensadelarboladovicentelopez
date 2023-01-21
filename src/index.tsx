@@ -11,6 +11,7 @@ createRoot(container).render(
   <StrictMode>
     <header>
       <h1>Defensa del arbolado Vicente López | Galería</h1>
+
       <a
         href="https://www.instagram.com/defensadelarboladovicentelopez/"
         target="_blank"
@@ -25,6 +26,11 @@ createRoot(container).render(
       >
         Facebook
       </a>
+      <h3>
+        Vecinos del MUNICIPIO DE VICENTE LÓPEZ AGRUPADOS en DEFENSA de NUESTROS
+        ÁRBOLES. Con la CRISIS CLIMÁTICA que vivimos, se necesitan CAMBIOS
+        URGENTES!
+      </h3>
     </header>
     <main>
       <App />

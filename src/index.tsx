@@ -35,5 +35,6 @@ createRoot(container).render(
     <main>
       <App />
     </main>
+    <h4>Última actualización: Enero 2023</h4>
   </StrictMode>
 );

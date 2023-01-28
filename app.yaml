@@ -30,3 +30,4 @@ env_variables:
   REACT_APP_SERVICE_ID: "service_5uovyug"
   REACT_APP_TEMPLATE_ID: "template_jq5khja"
   REACT_APP_USER_ID: "ZM5XigbNzoPx1fNY3"
+  GENERATE_SOURCEMAP: false
